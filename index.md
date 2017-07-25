@@ -5,4 +5,6 @@
 layout: home
 ---
 
-Nice
+Sanjib's Resume
+
+<img class="gravatar" src="{{ site.email | to_gravatar }}?s=68" />
